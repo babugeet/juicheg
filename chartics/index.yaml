@@ -9,6 +9,6 @@ entries:
     name: jamper
     type: application
     urls:
-    - https://babugeet..github.io/chartics/jamper-0.1.0.tgz
+    - https://babugeet.github.io/chartics/jamper-0.1.0.tgz
     version: 0.1.0
 generated: "2025-03-02T20:57:16.662714+05:30"
