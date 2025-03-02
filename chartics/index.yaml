@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jamper:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-02T20:57:16.664419+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 0f1edee26096e949dd82ac54771c6bd7a29e8129dc5db01a966331cc6ddebf59
+    name: jamper
+    type: application
+    urls:
+    - https://babugeet..github.io/chartics/jamper-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-02T20:57:16.662714+05:30"
